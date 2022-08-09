@@ -1,7 +1,0 @@
-Go to folder YesNoMyCode--->YesNoMyCode.
-Inputs--->contains all inputs used for the testing
-Outputs--->contains all outputs generated for the inputs.
-
-Whenever the program solution is opened in visual studio, execute it by pressing F5, then enter the input file name (eg. ye1.txt) and press Enter.
-Now go to out.txt file which contains your output.
-To see the scaled input, go to ScaledInpSpeech.txt file.
