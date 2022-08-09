@@ -1,0 +1,11 @@
+Number of Samples = 32067
+Number of frames = 106
+DC shift needed is -0.282845
+Maximum Amplitude = 4766
+Starting frame is 61th frame and starting sample is 18300
+Starting time = 1.14375 seconds
+Ending frame is 91th frame and Ending sample is 27300
+Ending time = 1.70625 seconds
+Average Energy of the speech signal is 201645
+Average ZCR of the speech signal is 143.516 
+speech is YES signal
